@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for Coursera / John Hopkins University Data Science Specialization track
+Repository for *Coursera / John Hopkins University* **Data Science Specialization track**
